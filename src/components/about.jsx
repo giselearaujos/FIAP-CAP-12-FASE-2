@@ -19,7 +19,7 @@ export const About = (props) => {
                 incentivamos você a se juntar à nossa comunidade e participar de
                 um movimento que recompensa ações ecológicas.
               </p>
-              <h3>Why Choose Us?</h3>
+              <h3>Por que?</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
